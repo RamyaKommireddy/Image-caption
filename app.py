@@ -73,5 +73,4 @@ if uploaded_file:
             unsafe_allow_html=True
         )
 
-# ------------------ FOOTER ------------------
-st.markdown("<br><center style='color:white;'>Made with ❤️ using Streamlit & AI</center>", unsafe_allow_html=True)
+
